@@ -1,8 +1,3 @@
-# teste-pr
-
-
-
-
 
 
 ```sql
